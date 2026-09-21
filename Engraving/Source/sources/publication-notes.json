@@ -1,0 +1,265 @@
+{
+  "title": "Engraving Notes",
+  "author": "Written by ChatGPT-6 Astra",
+  "introduction": [
+    "Much of the pleasure of this symphony lies in its quick changes of character: a solo emerges from an orchestral outburst, a phrase passes from winds to strings, or a pause holds back the next surprise. Those moments depend on small marks. My aim was to make them clear to the players while preserving the distinctions that give the music its character.",
+    "The manuscript was the basis of the musical text. I considered its articulations, slurs and dynamics both as written marks and as instructions to players. Where two instruments shared a phrase and one lacked a mark, I looked to the surrounding texture and other statements of the figure before supplying it. A recurring difference deserved particular care: it could be one of the ways Weber distinguished the instruments. A wind attack and a string bow stroke need not be identical to belong to the same phrase.",
+    "I have printed supplied slurs, articulations and dynamics in the same style as markings taken from the manuscript, without extra signs identifying each editorial addition. This keeps the performing pages clear; the notes below explain selected choices and the reasons for them. Measure references take the form movement/measure; numbering restarts in each movement, and the Trio begins at III/17. Manuscript page references count the pages of the supplied scan, including its title page."
+  ],
+  "sections": [
+    {
+      "title": "I. Allegro",
+      "entries": [
+        {
+          "location": "I/27-28, brass and double bass",
+          "text": "The first trumpet’s missing accents at 28 were supplied from trumpet II, which plays the same rhythm an octave lower. The double bass was given the paired slurs and accents of the other strings in the descending sixteenth-note groups. These additions make a common orchestral gesture intelligible in each player’s part; the isolated omissions offered little reason for a different attack or bowing.",
+          "pages": [
+            7
+          ]
+        },
+        {
+          "location": "I/50, horn I; I/183, oboe I",
+          "text": "Piano was supplied at these solo pickups after the fermata. The change from the preceding orchestral fortissimo to an exposed solo, followed by very quiet accompaniment, calls for a new dynamic level. Making that level explicit gives the player a useful entrance instruction where the manuscript leaves it to the texture.",
+          "pages": [
+            11,
+            39
+          ]
+        },
+        {
+          "location": "I/90 and 92-93, winds and strings",
+          "text": "At 90, the accent was completed in oboe II and the lower strings, whose release belongs to the same accented gesture as their partners. At 92-93, missing dots were supplied within the shared reed figures. This did not justify extending staccato to every instrument nearby: the following string continuation and the distinct double-bass figure were left with their own articulation.",
+          "pages": [
+            19,
+            20
+          ]
+        },
+        {
+          "location": "I/122-137, bassoon II and lower strings",
+          "text": "The bassoon responses were left without the staccato dots found in the strings. Here the difference recurs through a whole sequence, rather than appearing as one missed mark. A less sharply detached bassoon response is compatible with the string articulation; copying the dots would make the two layers more alike than the manuscript suggests.",
+          "pages": [
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "location": "I/134, dynamics",
+          "text": "The distinction between forte in the flute, oboes and upper strings and fortissimo in the bassoons was retained. The manuscript changes selected layers of the texture. I found that distribution musically credible and saw no reason to replace it with a single orchestral dynamic.",
+          "pages": [
+            29
+          ]
+        },
+        {
+          "location": "I/142, strings",
+          "text": "I wrote out the repeated sixteenths at the end of the bar so the detached attacks could be read at a glance: two sixteenths in the second half of beat 3, followed by four staccato sixteenths on beat 4. The manuscript places paired dots over the abbreviated repetitions. Giving each note its own head makes the place of each dot clear to the player.",
+          "pages": [
+            30
+          ]
+        },
+        {
+          "location": "I/144-145, viola",
+          "text": "Slurs were supplied in groups of four sixteenths, following the cello and double bass in the same oscillating figure. The violins’ longer bowing was retained. The viola’s closest guide here is its immediate lower-string partner, not simply the most conspicuous line on the page.",
+          "pages": [
+            31
+          ]
+        },
+        {
+          "location": "I/153, violins and viola",
+          "text": "The sustained G was given a common release in all three parts: a half note tied to an eighth, an eighth rest, then a quarter rest with fermata. This is an editorial coordination of the pause. It places the string release with the end of the wind phrase and gives the orchestra a shared silence before the fermata.",
+          "pages": [
+            32,
+            33
+          ]
+        },
+        {
+          "location": "I/181, trumpet II",
+          "text": "I supplied piano at trumpet II’s entrance. Trumpet I has already established the quiet dynamic, and the two players now begin the crescendo together. In the score, their relationship is easy to see; in the separate part, the added piano gives the second player a clear starting point for that shared increase in intensity.",
+          "pages": [
+            38
+          ]
+        },
+        {
+          "location": "I/211 and 215, bassoons and lower strings",
+          "text": "Forte begins on beat 2 in the bassoons and lower strings. I kept their low opening note at the preceding quiet level so that the old phrase can finish before the new attack. The trumpets retain forte on the tied opening quarter, reaching the new level while their line is already underway. The different placements follow the phrases, which do not all begin at the barline.",
+          "pages": [
+            44,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II. Adagio ma non troppo",
+      "entries": [
+        {
+          "location": "II/1-3, horns",
+          "text": "The two opening diminuendos were allowed to end at different times. Horn I reaches pianissimo in the middle of measure 2; horn II reaches it at measure 3. The manuscript’s unequal spans were interpreted as separate shaping of the two lines. Aligning both endpoints would be tidier on the page but would discard that distinction.",
+          "pages": [
+            51
+          ]
+        },
+        {
+          "location": "II/21 and other one-stroke whole-note tremolos",
+          "text": "I rewrote each whole note with a single measured-repetition stroke as two successive half notes, each with one stroke. This preserves the repeated rhythm while making the middle of the bar visible. At the Adagio’s slow pace, that small foothold can help a player keep the pulse through a sustained passage.",
+          "pages": [
+            56
+          ]
+        },
+        {
+          "location": "II/22, 25-26 and 30, dynamics",
+          "text": "Missing dynamics were supplied where a player joined an established orchestral gesture: forte in cello and bass at 22, fortissimo at the horns’ pickup in 25, piano at oboe II’s pickup in 26, and pianissimo in the closing replies of oboe II, viola and bass at 30. These additions clarify the entrances without flattening the distinct piano wind and pianissimo string accompaniment at 27.",
+          "pages": [
+            56,
+            57,
+            58
+          ]
+        }
+      ]
+    },
+    {
+      "title": "III. Menuetto and Trio",
+      "entries": [
+        {
+          "location": "III/8 and 15, violins",
+          "text": "I supplied staccato dots on both quarter-note attacks in each violin part at 8, and an accent on violin I’s half note at 15. These are shared orchestral attacks, and the surrounding parts make their character clear. The additions let the violins join that common emphasis without leaving each player to infer it from a part that carries fewer marks.",
+          "pages": [
+            67,
+            68
+          ]
+        },
+        {
+          "location": "III/9, viola",
+          "text": "Fortissimo was retained. The viola takes part in the same forceful arrival as the neighboring strings, and a quieter reading would weaken that common arrival without a convincing change of musical role.",
+          "pages": [
+            67
+          ]
+        },
+        {
+          "location": "III/24, cello",
+          "text": "The cadence accent was supplied with the other strings. The cello completes their gesture and release; its unmarked note does not suggest a separate phrase or a different weight at the cadence.",
+          "pages": [
+            69
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IV. Finale",
+      "entries": [
+        {
+          "location": "Rising eighth-note figures and their final quarters",
+          "text": "The recurring rise of four eighths is slurred through its destination quarter throughout the movement, including the opening viola figure and later exchanges among winds and strings. The quarter is the goal of the climb, and I wanted the slur to carry its momentum into that arrival.",
+          "pages": [
+            72,
+            73,
+            74,
+            75,
+            77,
+            78,
+            79,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "location": "IV/4 and 142, lower strings",
+          "text": "The manuscript gives the bassoons an accent on the final quarter of the rise and leaves the lower strings unaccented. I kept that difference in weight: the arrival can stand out in the bassoons while the strings carry the line on more evenly.",
+          "pages": [
+            72,
+            95
+          ]
+        },
+        {
+          "location": "IV/22 and 36, violin II",
+          "text": "The initial accent missing at 36 was supplied from the same figure at 22. This is a close repetition with the same rhythmic function, so the earlier marking is a stronger guide than the isolated omission at its return.",
+          "pages": [
+            75,
+            78
+          ]
+        },
+        {
+          "location": "IV/58, bassoon I; IV/136, flute",
+          "text": "Piano was supplied at the bassoon’s exposed entrance in the quiet dialogue at 58, and at the flute’s shared entrance with oboe II at 136. In each case the new dynamic states the level already established by the surrounding players. It helps the individual part communicate the change of texture visible in the score.",
+          "pages": [
+            81,
+            94
+          ]
+        },
+        {
+          "location": "IV/155, melody and accompaniment",
+          "text": "The continuing melody in flute, oboe I and violin I was left without an added inner accent, while violin II retained its written accompaniment accent. These simultaneous notes have different jobs. Transferring the accompaniment mark to the melody would introduce an emphasis the manuscript does not support.",
+          "pages": [
+            97
+          ]
+        },
+        {
+          "location": "IV/183-186, oboe I, cello and double bass",
+          "text": "The oboe’s renewed accidentals, read together with the intervening ties, suggest fresh beginnings within the sustained line. I have therefore given it new attacks at 184 and 186; cello and bass also rearticulate at 184. The long notes continue to hold the texture, but their phrase beginnings can still be heard.",
+          "pages": [
+            102,
+            103
+          ]
+        },
+        {
+          "location": "IV/186-189 and 197, detached figures",
+          "text": "Staccato was supplied in violin I and cello at 186-189, and in violin I at 197. The viola, flute and adjacent statements establish the short-note character of these figures. The additions keep the shared material consistent while leaving the surrounding sustained phrases intact.",
+          "pages": [
+            103,
+            104
+          ]
+        },
+        {
+          "location": "IV/190-193 and 196, flute; IV/194-196, strings",
+          "text": "I carried the flute’s rising figures through their final quarters, including the less clear endpoint at 191, so the climb reaches its goal within the slur. The longer phrase in violin I, violin II, viola and cello at 194-196 rises and then falls. I kept its closing quarter separate, giving the bow a fresh impulse after the descent. The two endings have similar note values, but different shapes and places in the phrase.",
+          "pages": [
+            103,
+            104
+          ]
+        },
+        {
+          "location": "IV/198, orchestra",
+          "text": "The manuscript’s final fz-type sign was rendered as sf, in agreement with the analogous attack at 48. I read it as a forceful accent rather than a new sustained fortissimo level. The accompanying written accent signs were retained, and completed in the shared lower-string attack.",
+          "pages": [
+            80,
+            105
+          ],
+          "italic_terms": [
+            "sf",
+            "fz"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A few conventions for performance",
+      "entries": [
+        {
+          "location": "Ornaments and divided strings",
+          "text": "Grace notes were kept distinct from measured small-note figures, and delayed turns were placed between their surrounding notes. The string instruction a due was rendered as “div.”, making the intended division of the section explicit. Solo indicates an exposed single player. Soli indicates an exposed pair, except at IV/100, where Soli (sezione) calls for the full string sections with normal divisi.",
+          "pages": [],
+          "italic_terms": [
+            "a due",
+            "Solo",
+            "Soli",
+            "Soli (sezione)"
+          ]
+        },
+        {
+          "location": "General pauses",
+          "text": "G.P. was added over the two silent bars at III/25-26, III/35-36, IV/32-33 and IV/200-201. The rests are the music; the label is an editorial aid. It confirms the collective silence, especially for a player who sees only a single part.",
+          "pages": []
+        },
+        {
+          "location": "Brass alternatives and cues",
+          "text": "The score retains the original brass transpositions. I included F-horn and B-flat-trumpet alternatives so modern players can use familiar parts while preserving the same sounding pitches and register. The C basso horn notation sounds an octave below written pitch. I added small cue notes, practical clef changes and rehearsal letters to give players landmarks during rests and at their entrances.",
+          "pages": []
+        }
+      ]
+    }
+  ]
+}
