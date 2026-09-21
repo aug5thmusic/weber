@@ -22,4 +22,4 @@ Individual Parts:
 
 ## License
 
-This edition is in the Public Domain. I waive all copyright and related rights. You are free to print, download, share, modify, or perform it for any purpose, without asking permission.
+This edition is released under CC0 1.0 Universal (Public Domain Dedication). See https://creativecommons.org/publicdomain/zero/1.0/ You are free to print, download, share, modify, or perform it for any purpose, without asking permission.
