@@ -6,19 +6,15 @@ As part of this edition, Astra wrote a preface detailing its engraving process a
 
 ## Full Score & Parts
 
-Full Score: 
+You can download the complete score and parts of the Astra Edition as a ZIP file ([Download](https://github.com/aug5thmusic/weber/blob/main/Weber%20Symphony%20No.%202%20-%20Complete%20Score%20%26%20Parts.zip)).
 
-Complete Parts: 
+Individual PDF files are also available: [Full Score (PDF)](https://github.com/aug5thmusic/weber/blob/main/Weber%20Symphony%20No.%202%20-%20Full%20Score.pdf) -- [Complete Parts (PDF)](https://github.com/aug5thmusic/weber/blob/main/Parts/Weber%20Symphony%20No.%202%20-%20Part%20-%2000%20Complete%20Parts.pdf)
 
-Individual Parts: 
+Individual parts are available in the [/Parts](https://github.com/aug5thmusic/weber/tree/main/Parts) folder.
 
 ## Engraving Files (LilyPond)
 
-Full Score:
-
-Complete Parts:
-
-Individual Parts:
+LilyPond engraving files are available in the [/Engraving](https://github.com/aug5thmusic/weber/tree/main/Engraving) folder, along with some instructions on how to rebuild the PDFs.
 
 ## License
 
